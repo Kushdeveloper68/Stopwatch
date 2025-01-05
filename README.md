@@ -18,4 +18,4 @@ A simple and responsive stopwatch created using HTML, CSS, and JavaScript. This 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/stopwatch.git
+   git clone https://github.com/Kushdeveloper68/Stopwatch.git
